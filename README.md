@@ -19,6 +19,7 @@ The platform enables teams to manage backlogs, allocate user stories, and track 
 > **Note:** The full source code for this project is kept in a private repository due to academic integrity policies. This showcase page highlights the architecture, features, and my specific contributions.
 
 **Live Demo:** [https://app.agileminds.tech](https://app.agileminds.tech)
+* To successfully complete the subscription step, please use the following **mock card number**: 4242424242424242 (all other information can be inputted randomly)
 
 ---
 
