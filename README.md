@@ -82,6 +82,31 @@ The platform enables teams to manage backlogs, allocate user stories, and track 
 
 ---
 
+## Screenshots
+
+![Authentication Page](project-screenshots/login_page.png)
+*The authentication page allows users to choose between logging in with email + password or Github account.*
+
+![Dashboard](project-screenshots/dashboard.png)
+*The user's dashboard, where users can create and view their projects.*
+
+![Project Kanban Board](project-screenshots/kanban_board.png)
+*A project's kanban board where users can add tasks/stories/bugs etc. and manage sprints.*
+
+![Ai Assistant Panel](project-screenshots/ai_panel.png)
+*The AI assistant panel where project members can utilize AI to make agile planning easier.*
+
+![Project Settings](project-screenshots/project_settings.png)
+*The project setting where project owner can manage project members.*
+
+![User Subscription Management](project-screenshots/subscription_management.png)
+*The user's subscription management page that takes the user to Stripe's user portal.*
+
+![Stripe Portal](project-screenshots/stripe_page.png)
+*The Stripe portal for the current user to manage their subscriptions.*
+
+---
+
 ## Deployment & DevOps
 - **Containerized**: Fully Dockerized environment (`docker-compose.yml`) managing Postgres, Express server, React static assets, and Caddy reverse proxy.
 - **Production Domain**: `app.agileminds.tech` and `api.agileminds.tech` routed securely via HTTPS.
